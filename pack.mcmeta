@@ -1,9 +1,0 @@
-{
-  "pack": {
-    "pack_format": 34,
-    "supported_formats": [34, 84],
-    "min_format": [34, 0],
-    "max_format": [84, 0],
-    "description": "Reduces the 'blocking shield' height!"
-  }
-}
